@@ -1,0 +1,16 @@
+{
+  "name": "expressjspractice",
+  "version": "1.0.0",
+  "description": "hy I am starting a  Express js framework",
+  "main": "firstexpress.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zain khan",
+  "license": "ISC"
+}
